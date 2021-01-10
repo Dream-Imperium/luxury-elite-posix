@@ -1,0 +1,12 @@
+name:ccore
+version:1.0.0
+license:UNLICENSE
+description:luxury elite complementary core utilities.
+cksum:74bcf6f2014df41c45ff175957a7f167c6499aba8c7685c7d98060b534c497735db90b47899a085ff9acc4ee750e3817857c8045cb0e67a168f258937780d213
+mirrors{
+	http://dreamimperium.cf/bin/ccore-$version.tar.gz
+}
+mdeps{
+	ncurses
+	libc
+}

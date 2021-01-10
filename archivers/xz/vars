@@ -1,0 +1,11 @@
+name:xz
+version:5.2.5
+license:GPL-2+ PUBLIC_DOMAIN
+description:Library and CLI tools for XZ and LZMA compressed files.
+cksum:b3ec9ae5c404287062781b3e3d19ce37557e9bbaf6af0381e3b494a2f1d109d77e9ef782e7a05a7bfccfa783316b7f5f7c2455446751224c6360280141fd297f
+mirrors{
+	https://tukaani.org/xz/xz-$version.tar.xz
+}
+mdeps{
+	libc
+}

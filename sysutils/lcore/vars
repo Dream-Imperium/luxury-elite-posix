@@ -1,0 +1,11 @@
+name:lcore
+version:1.0.0
+license:UNLICENSE
+description:luxury elite core utilities.
+cksum:7cda3bd5ec88eee0fdba911228f66c6a4e1abe3de3a607ac3710d640a515b9a0c12be759f651cc17644c154baf952c7308186eee13d3761ec76e8f375e90b486
+mirrors{
+	http://dreamimperium.cf/bin/lcore-$version.tar.gz
+}
+mdeps{
+	vanilla
+}

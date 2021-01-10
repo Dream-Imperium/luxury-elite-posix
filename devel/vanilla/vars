@@ -1,0 +1,8 @@
+name:vanilla
+version:1.0.0
+license:UNLICENSE
+description:luxury elite system programming library.
+cksum:4d703120dee48074328c2f05be365129bed9fa909a7ff017994f7c9433927ecbe28e3d6c56c7f6f19061bf98e8e5ccc9fb17c1b56e5f83238d5b1cafbd3be85e
+mirrors{
+	http://dreamimperium.cf/bin/vanilla-$version.tar.gz
+}

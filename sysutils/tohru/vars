@@ -1,0 +1,11 @@
+name:tohru
+version:1.0.0
+license:UNLICENSE
+description:A simple package manager.
+cksum:c6cf18be7bd95e0727e80c89991dd2f4300e13bb040ff6722734dd82c729e28d564c660fbcf7f7c4880b1016992c6e8fca2fe92657b810d80c8e5180aa693f45
+mirrors{
+	http://dreamimperium.cf/bin/tohru-$version.tar.gz
+}
+mdeps{
+	vanilla
+}
